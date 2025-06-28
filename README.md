@@ -34,29 +34,29 @@ A modern, responsive Flutter weather application that displays real-time weather
 ## 📱 Screenshots
 
 ### Home Screen
-![Home Screen](assets/screenshots/home_screen.png)
+![Home Screen](assets/screenshots/home_screen.jpeg)
 *Current weather display with interactive forecast chart*
 
 ### Map Screen
-![Map Screen](assets/screenshots/map_screen.png)
+![Map Screen](assets/screenshots/map_screen.jpeg)
 *Interactive map for location selection*
 
 ### Android Widget
-![Android Widget](assets/screenshots/android_widget.png)
+![Android Widget](assets/screenshots/android_widget.jpeg)
 *Home screen widget showing current weather*
 
 ### Forecast Chart
-![Forecast Chart](assets/screenshots/forecast_chart.png)
+![Forecast Chart](assets/screenshots/forecast_chart.jpeg)
 *Multi-tab forecast chart with temperature, humidity, pressure, and wind data*
 
 ### Splash Screen
-![Splash Screen](assets/screenshots/splash_screen.png)
+![Splash Screen](assets/screenshots/splash_screen.jpeg)
 *App splash screen with branding*
 
 ## 🎥 Demo Video
 
 ### App Walkthrough
-[![Weather Tracker Demo](assets/screenshots/video_thumbnail.png)](assets/videos/app_demo.mp4)
+[![Weather Tracker Demo](assets/screenshots/video_thumbnail.jpeg)](assets/videos/app_demo.mp4)
 *Click to watch the full demo video*
 
 ### Quick Demo (GIF)
